@@ -9,4 +9,4 @@ if hour >= 41:
 else:
     pay = hour * rate
 
-print('Pay:',pay)
+print('Total Pay:',pay)
